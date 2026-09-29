@@ -1,0 +1,6 @@
+{
+  "name": "CandleVision Pro",
+  "description": "Real-time Candlestick Vision Analyzer for Binary Trading with Gemini Vision AI, Bengali TTS audio signals, Floating HUD widget, and Live Market Simulator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
